@@ -2,7 +2,7 @@
 node_modules/
 
 # Src and test suites
-src/
+# src/
 
 # Other extensions
 extensions/
